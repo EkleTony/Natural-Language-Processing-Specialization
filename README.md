@@ -3,16 +3,16 @@ Natural Language Processing (NLP) uses algorithms to understand and manipulate h
 
 This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization. Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.
 
-**NOTE: This Repo contains a comprehensive details of note I have taken during the course. I Hope you will find this useful**
+** >NOTE: This Repo contains a comprehensive details of note I have taken during the course. I Hope you will find this useful**
 
-# COURSE 1 of the Course: NLP with Classification and Vector Spaces
-# WEEK 1: Sentiment Analysis with Logistic Regression
+## COURSE 1 of the Course: NLP with Classification and Vector Spaces
+### WEEK 1: Sentiment Analysis with Logistic Regression
 * Learn to extract features from text into numerical vectors, then build a binary classifier for tweets using logistic regression!
-# WEEK 2: Sentiment Analysis with Naïve Bayes
+### WEEK 2: Sentiment Analysis with Naïve Bayes
 * Learn the theory behind Bayes' rule for conditional probabilities, then apply it toward building a Naive Bayes tweet classifier of your own!
-# WEEK 3: Vector Space Models
+### WEEK 3: Vector Space Models
 * Vector space models capture semantic meaning and relationships between words. You'll learn how to create word vectors that capture dependencies between words, then visualize their relationships in two dimensions using PCA.
-# WEEK 4: Machine Translation and Document Search
+### WEEK 4: Machine Translation and Document Search
 * Learn to transform word vectors and assign them to subsets using locality sensitive hashing, in order to perform machine translation and document search.
 
-# COURSE 2: 
+## COURSE 2: 
